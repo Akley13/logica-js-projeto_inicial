@@ -4,4 +4,4 @@ const numeroSorteado = 29;
 
 const numeroSorteado = 30;
 
-prompt("Escolha um número entre 1 e 30: ");
+prompt("Escolha um número entre 1 e 30: ");  
