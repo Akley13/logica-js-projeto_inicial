@@ -14,5 +14,5 @@ if (idade1 >= 18) {
     alert("Pode tirar habilitação!");
 } else {
     alert("Habilitação apenas para maiores de idade!");
-}
+} 
 
